@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
+  <diagram name="Страница — 1" id="RKWbuhna6AHEA5-PSQf5">
+    <mxGraphModel dx="565" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-16" value="&lt;strong style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; text-align: start; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Студент&lt;/strong&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="120" width="176" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-29" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;ID студента&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-16">
+          <mxGeometry y="26" width="176" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-18" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;ФИО&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-16">
+          <mxGeometry y="52" width="176" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-19" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;ID группы&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-16">
+          <mxGeometry y="78" width="176" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-21" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Дата поступления&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-16">
+          <mxGeometry y="104" width="176" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-22" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Форма обучения&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-16">
+          <mxGeometry y="130" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-23" value="&lt;strong style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; text-align: start; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Группа&lt;/strong&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="210" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-24" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;ID группы &lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-23">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-25" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Название группы&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-23">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-26" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Факультет&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-23">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-33" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Курс&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-23">
+          <mxGeometry y="104" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-32" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Год набора&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-23">
+          <mxGeometry y="130" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-34" value="&lt;strong style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; text-align: start; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Предмет&lt;/strong&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-35" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;ID предмета&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-34">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-36" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Название предмета&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-34">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-37" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Количество часов&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-34">
+          <mxGeometry y="78" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-44" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Форма контроля&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-34">
+          <mxGeometry y="104" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-46" value="&lt;strong style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; text-align: start; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Оценка&lt;/strong&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-47" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;ID оценки&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-46">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-48" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;ID студента&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-46">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-49" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;ID предмета&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-46">
+          <mxGeometry y="78" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-66" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Оценка&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-46">
+          <mxGeometry y="104" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-65" value="&lt;ul style=&quot;margin: 0px 0px 14px 25px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit; display: flex; flex-direction: column; color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;&lt;li style=&quot;margin: 0px; padding: 0px; scrollbar-color: rgb(92, 114, 101) transparent; box-sizing: inherit;&quot;&gt;Дата получения оценки&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-46">
+          <mxGeometry y="130" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-67" value="&lt;span style=&quot;color: rgb(73, 73, 73); font-family: &amp;quot;Fira Sans&amp;quot;, serif; font-size: 16px; white-space-collapse: break-spaces; background-color: rgb(244, 244, 231);&quot;&gt;Тип оценки&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6ur_eUY4bLG5nfG0MfKk-46">
+          <mxGeometry y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6ur_eUY4bLG5nfG0MfKk-46" source="6ur_eUY4bLG5nfG0MfKk-47" target="6ur_eUY4bLG5nfG0MfKk-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ur_eUY4bLG5nfG0MfKk-48" target="6ur_eUY4bLG5nfG0MfKk-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="575" />
+              <mxPoint x="330" y="490" />
+              <mxPoint x="254" y="490" />
+              <mxPoint x="254" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ur_eUY4bLG5nfG0MfKk-24" target="6ur_eUY4bLG5nfG0MfKk-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="359" />
+              <mxPoint x="260" y="300" />
+              <mxPoint x="470" y="300" />
+              <mxPoint x="470" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ur_eUY4bLG5nfG0MfKk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ur_eUY4bLG5nfG0MfKk-49" target="6ur_eUY4bLG5nfG0MfKk-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
